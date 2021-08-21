@@ -12,7 +12,7 @@ import com.revature.ems.model.Email;
  */
 public class App {
 	public static void main(String[] args) {
-
+System.out.println("hi");
 		AbstractApplicationContext context = new AnnotationConfigApplicationContext(AppConfig.class);
 
 		
