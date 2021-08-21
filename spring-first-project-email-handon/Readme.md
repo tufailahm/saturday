@@ -1,0 +1,1 @@
+<h1>Spring handson solution for email</h1>
